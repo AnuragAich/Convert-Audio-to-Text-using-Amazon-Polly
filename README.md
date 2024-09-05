@@ -5,7 +5,7 @@
 
 The Text-to-Speech (TTS) Converter project is designed to convert written text into spoken words using a serverless architecture, leveraging AWS Lambda and Amazon Polly. This solution is ideal for creating scalable, efficient, and cost-effective applications that require natural-sounding speech synthesis.
 
-<img width="1104" alt="Arc-Convert Audio to Text using Amazon Polly" src=![Arc-Convert Audio to Text using Amazon Polly](https://github.com/user-attachments/assets/2c2e03bf-0534-4e65-a3f6-758c54361b97)
+<img width="1104" alt="Arc-Convert Audio to Text using Amazon Polly" src= "https://github.com/user-attachments/assets/2c2e03bf-0534-4e65-a3f6-758c54361b97">
 
 Use Cases: 
 
