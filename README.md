@@ -45,7 +45,7 @@ Convenience: Allows users to listen to articles or books while multitasking, suc
   Click Policies in the left-hand menu, then click Create policy.
   Go to the JSON tab and enter the following policy (replace YOUR_REGION with your AWS region):
 
- {
+{
   "Version": "2012-10-17",
   "Statement": [
     {
