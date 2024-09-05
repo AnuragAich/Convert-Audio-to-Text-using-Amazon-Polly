@@ -114,7 +114,7 @@ Convenience: Allows users to listen to articles or books while multitasking, suc
 * Step 7: Write Lambda Function Code
   Edit Function Code:
   In the Lambda Management Console, go to the Code tab.
-  Replace the default code with the following Python script in the TextToSpeechFunction.py
+  Replace the default code with the following Python script in the [TextToSpeechFunction.py](https://github.com/AnuragAich/Convert-Audio-to-Text-using-Amazon-Polly/blob/0ee7625d7e3a70e392c8af2e36823cd0dfcfdca9/TextToSpeechFunction.py)
   Save Changes:
   Click Deploy to save and deploy the Lambda function.
 
