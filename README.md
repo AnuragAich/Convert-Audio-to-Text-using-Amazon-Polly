@@ -13,9 +13,6 @@ Content Distribution: Offers
 an additional medium for content consumption, increasing engagement. \
 Convenience: Allows users to listen to articles or books while multitasking, such as during commutes or workouts. 
 
-### Architecture:
-
-<img width="1104" alt="Screenshot 2024-06-16 at 7 30 04 PM" src="[(https://github.com/AnuragAich/Convert-Audio-to-Text-using-Amazon-Polly/blob/main/Arc-Convert%20Audio%20to%20Text%20using%20Amazon%20Polly.png)]">
 
 ### Steps to Build the Project:
 
