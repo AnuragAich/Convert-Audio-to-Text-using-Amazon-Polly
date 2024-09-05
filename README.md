@@ -46,7 +46,7 @@ Convenience: Allows users to listen to articles or books while multitasking, suc
   Go to the JSON tab and enter the following policy (replace YOUR_REGION with your AWS region):
 
   ```bash
-   {
+  {
    "Version": "2012-10-17",
    "Statement": [
     {
@@ -64,15 +64,11 @@ Convenience: Allows users to listen to articles or books while multitasking, suc
       "Effect": "Allow",
       "Action": "polly:SynthesizeSpeech",
       "Resource": "*"
-    }
-  ]
-}
+      }
+    ]
+  }
 
-   Click Review policy.
-   Name the policy amc-polly-lambda-policy.
-   Click Create policy.
-
-
+  
 
 
 * Step 4: Create an IAM Role
